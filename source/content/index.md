@@ -1,9 +1,8 @@
 ---
-title: My GitHub Pages Notebook!
+title: André Protasio Digital Garden
 ---
 
 Hello world!
 
-Write some words here!
-
-Teste
+Bem-vindo(a) ao meu recanto online, este espaço é feito para documentar minhas aventuras technologicas.
+#
